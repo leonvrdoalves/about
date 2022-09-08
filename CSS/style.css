@@ -1,0 +1,166 @@
+body{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+    font-family: 'Merriweather'; 
+}
+
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c6dbe6;
+    border-width: 7.5px;
+    width: 5%;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Pacifico';
+    color: #24A9BA;
+    font-size: 70px;
+}
+
+h2{
+    font-family: "Anek Telugu";
+    color: #24A9BA;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3{
+    font-family: "Anek Telugu";
+    font-weight: bold;
+    color: #24A9BA;
+    font-size: 20px;
+}
+
+p{
+    color: #313131;
+    font-weight: bold;
+}
+.pone{
+    font-family: 'Ubuntu Mono';
+    color: #24A9BA;
+    font-size: 22.5px;
+}
+
+.divone{
+    background-color: #c6dbe6;
+    padding-top: 5%;
+}
+
+.montain{
+    width: 50%;
+}
+.cloudone{
+    position: absolute;
+    left: 70%;
+    width: 200px;
+    height: 100px;
+}
+.cloudtwo{
+    position: absolute;
+    right: 70%;
+    width: 200px;
+    height: 100px;
+} 
+
+strong{
+    color: #24A9BA;
+}
+
+.footer-link{
+    color: #116772;
+    font-weight: bolder;
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    line-height: 1.75;
+}
+
+.self{
+    text-align: left;
+}
+
+.creative{
+    text-align: left;
+    margin-left: 30%;
+}
+
+.focus{
+    text-align: left;
+}
+
+.selfimg{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+}
+
+.focusimg{
+    width: 25%;
+    float: left;
+    margin-right: 40px;
+}
+
+.creativeimg{
+    width: 25%;
+    float: right;
+    margin-left: 10px;
+}
+
+.divthree{
+    background-color: #24A9BA ;
+}
+
+.btn{
+    background: #24A9BA;
+  background-image: -webkit-linear-gradient(top, #24A9BA, #116772);
+  background-image: -moz-linear-gradient(top, #24A9BA, #116772);
+  background-image: -ms-linear-gradient(top, #24A9BA, #116772);
+  background-image: -o-linear-gradient(top, #24A9BA, #116772);
+  background-image: linear-gradient(to bottom, #24A9BA, #116772);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8PX;
+  font-family: Georgia;
+  color: #c6dbe6;
+  font-size: 20px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+    background: #116772;
+    background-image: -webkit-linear-gradient(top, #116772, #24A9BA);
+    background-image: -moz-linear-gradient(top, #116772, #24A9BA);
+    background-image: -ms-linear-gradient(top, #116772, #24A9BA);
+    background-image: -o-linear-gradient(top, #116772, #24A9BA);
+    background-image: linear-gradient(to bottom, #116772, #24A9BA);
+    text-decoration: none;
+  }
+
+ .hello{
+    line-height: 1.75;
+ }
+
+ a{
+    margin: 10px 20px;
+    font-size: 12.5px;
+    text-decoration: none;
+ }
+
+ a:hover{
+    color: #c6dbe6;
+ }
+
+ .identify{
+    color: #116772;
+    font-size: 12px;
+ }
